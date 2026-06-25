@@ -300,12 +300,12 @@ recencyScore: normalised timestamp (0–999), newer = higher
 * The heap can be maintained incrementally as new notifications arrive (no re-sort needed).
 
 ---
-
 ## Output Screenshots
 
 *Note: The Affordmed evaluation-service was returning a 503 Service Unavailable during testing. The backend gracefully handles the HttpRequestException and returns a 502 Bad Gateway to prevent application crashes, proving production-ready error handling.*
 
 ### Question 3: Vehicle Scheduler Endpoint
+📸 <img width="1918" height="1078" alt="Screenshot 2026-06-25 152657" src="https://github.com/user-attachments/assets/418ffb0f-c174-45a1-98af-66f5d4fdb065" />
 
 ### Stage 6: Priority Inbox Endpoint
-```
+📸 <img width="1918" height="1078" alt="Screenshot 2026-06-25 152649" src="https://github.com/user-attachments/assets/ddadde8f-b340-4c2a-ac16-fa9595c6ec7f" />
