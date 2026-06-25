@@ -1,0 +1,6 @@
+@vehicle_scheduling_be_HostAddress = http://localhost:5108
+
+GET {{vehicle_scheduling_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
